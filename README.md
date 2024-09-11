@@ -5,6 +5,10 @@ The project utilizes tools such as Tableau, D3, Altair, and Bootstrap to offer a
 
 For my individual contribution, I led the development of the [Financial and Risk Indicators](https://groups.ischool.berkeley.edu/ClimateVis/cfbl.html) section, which features charts and graphs primarily created with Tableau. The purpose of this section is to raise awareness of the carbon footprint of bank loans and the preparedness of countries for a low-carbon transition and its impact on regional economic development. Additionally, I spearheaded the website development, utilizing HTML, CSS, Bootstrap, and JavaScript to integrate the team's visualizations across the remaining sections.
 
+you can view our [live demo](https://drive.google.com/file/d/1b4dWghYWxcTrHJvncjXVlBWemisMCdLA/view).
+
+
+
 
 
 
