@@ -7,6 +7,10 @@ For my individual contribution, I led the development of the [Financial and Risk
 
 For more details, you can view our [live demo](https://drive.google.com/file/d/1b4dWghYWxcTrHJvncjXVlBWemisMCdLA/view).
 
+<h3>Tehnologies Used:</h3>
+HTML, CSS, JavaScript, Bootstrap, Tableau, D3.JS, Vega-Altair
+
+
 
 
 
